@@ -49,7 +49,7 @@ Here are the variables for each card:
 * ID Spouse: If the person is not married, you can leave it blank. It will show an error if it is the same ID as the current card.
 * ID Mother: The mother comes first, it will show an error if it is the same ID as the current card.
 * ID Father: It will show an error if it is the same ID as the current card.
-* 
+  
 ### Tree Generation
 
 After entering some data into the csv, click on the generate tree button and it will export the family tree in .svg format.
