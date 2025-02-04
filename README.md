@@ -6,8 +6,6 @@ At the moment I don't know how many generations it can handle, but I think it ca
 The export format is svg, so you can print it in a large format and it stays clear.
 This version is a standalone version, I called it the light version because I'm not going to update it. It works as is.
 
-I'm currently working on a more advanced version that won't be free, but will have more features and will be updated regularly.
-
 Author: Barb3 Noire3
 
 Date: 02/02/2025
